@@ -1,2 +1,3 @@
 # Pre-2004-Canadian-CZ5--Envelope-focused-IDF-models
-EnergyPlus IDF models for evaluating envelope-driven energy performance in pre-2004 Canadian commercial and multi-unit residential buildings. Models are derived from DOE references and modified to reflect period-informed envelope construcion assemblies, WWR, airtightness, and retrofit scenarios using ideal loads HVAC
+EnergyPlus IDF models developed to evaluate the impact of building envelope characteristics on energy performance in pre-2004 Canadian commercial and multi-unit residential buildings.
+The models are derived from DOE pre & post 1980 reference building models and modified to represent style- and period-informed envelope construction assemblies, window-to-wall ratios, airtightness levels, and retrofit scenarios
